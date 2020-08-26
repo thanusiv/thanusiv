@@ -7,9 +7,10 @@ My name is Thanushon Sivakaran and I am a Mechatronics Engineering student at th
 ⚡ Fun fact: I am a Toronto Raptors fan! Let's Go Raptors 🏀!
 
 ### 💬 Ask me about
-- Some of the projects that I worked on
-- My experience with co-ops and internships
+- Projects that I worked on
+- Experience with co-ops and internships
 - Life at the University of Waterloo
+- Mechatronics Engineering
 - Where I think technology is heading!
 
 ### 📫 You can reach me at 

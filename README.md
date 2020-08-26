@@ -10,7 +10,7 @@ My name is Thanushon Sivakaran and I am a Mechatronics Engineering student at th
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/thanushonsiva/"><img height="30" src="https://github.com/thanusiv/thanusiv/blob/master/assets/icons/linkedin.png?raw=true"></a>
-<a mailto:tsivakar@uwaterloo.ca src="https://github.com/thanusiv/thanusiv/blob/master/assets/icons/mail.png?raw=true"></a>
+<a href="mailto:tsivakar@uwaterloo.ca"> <img height="30" src="https://github.com/thanusiv/thanusiv/blob/master/assets/icons/mail.png?raw=true"></a>
 </p>
 
 

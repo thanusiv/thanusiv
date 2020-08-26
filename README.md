@@ -4,9 +4,15 @@
 
 My name is Thanushon Sivakaran and I am a Mechatronics Engineering student at the University of Waterloo who has completed 3 co-ops/internships so far. I'm from Canada ❤️ and love learning about different technologies. 🌱 I am currently learning about Machine Learning and A.I as you can see from my most recent repositories but I have done Mobile (Android) and Web (Angular, ReactJS) development as well! 🌱
 
-💬 Ask me about anything from some of the projects that I worked on, my experience with co-ops and internships or where I think technology is heading!
+⚡ Fun fact: I am a Raptors fan! Let's Go Raptors! 
 
-📫 You can reach me at 
+### 💬 Ask me about
+- Some of the projects that I worked on
+- My experience with co-ops and internships
+- Life at the University of Waterloo
+- Where I think technology is heading!
+
+### 📫 You can reach me at 
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/thanushonsiva/"><img height="50" src="https://github.com/thanusiv/thanusiv/blob/master/assets/icons/linkedin.png?raw=true"></a>

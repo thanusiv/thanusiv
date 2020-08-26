@@ -1,4 +1,4 @@
-<img src="header.png?raw=true"/>
+[![Banner](https://github.com/thanusiv/thanusiv/blob/master/header.png)](https://github.com/thanusiv/thanusiv/blob/master/header.png)
 
 ### Hi there 👋
 

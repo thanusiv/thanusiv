@@ -1,7 +1,6 @@
-[![Banner](https://github.com/thanusiv/thanusiv/blob/master/header.png)](https://github.com/thanusiv/thanusiv/blob/master/header.png)
+[![Banner](https://github.com/thanusiv/thanusiv/blob/master/assets/header/header.png)](https://github.com/thanusiv/thanusiv/blob/master/assets/header/header.png)
 
-### Hi there 👋
-
+# Hey! <img src="https://github.com/thanusiv/thanusiv/blob/master/assets/gifs/wave.gif" width="30px">
 <!--
 **thanusiv/thanusiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

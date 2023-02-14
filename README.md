@@ -2,9 +2,7 @@
 
 ## Hey! <img src="https://github.com/thanusiv/thanusiv/blob/master/assets/gifs/wave.gif" width="30px">
 
-DAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
-
-⚡ Fun fact: I am a Toronto Raptors fan! Let's Go Raptors 🏀!
+My name is Thanushon Sivakaran and I am a Mechatronics Engineering student at the University of Waterloo who has completed various co-ops/internships so far. By the end of Summer 2022, I will have finished working at Apple for 1 year. I'm from Canada and love learning about different technologies. I am currently learning about Machine Learning and A.I as you can see from my most recent repositories but I have done Mobile (Android) and Web (Angular, ReactJS) development as well!
 
 ### 💬 Ask me about
 - Projects that I worked on

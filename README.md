@@ -2,13 +2,14 @@
 
 ## Hey! <img src="https://github.com/thanusiv/thanusiv/blob/master/assets/gifs/wave.gif" width="30px">
 
-My name is Thanushon Sivakaran and I am a Mechatronics Engineering student at the University of Waterloo who has completed various co-ops/internships so far. By the end of Summer 2022, I will have finished working at Apple for 1 year. I'm from Canada and love learning about different technologies. I am currently learning about Machine Learning and A.I as you can see from my most recent repositories but I have done Mobile (Android) and Web (Angular, ReactJS) development as well!
+My name is Thanushon Sivakaran and I am an Electrical and Computer Engineering graduate student at the University of Waterloo. I also completed my undergrad in Mechatronics Engineering at the University of Waterloo. I have two years of work experience from 6 internships completed during my undergrad where my last three internships were at Apple. I'm from Canada and love learning about different technologies. I am currently learning about Machine Learning and A.I as you can see from my most recent repositories but I have done Mobile (Android) and Web (Angular, ReactJS) development as well!
 
 ### 💬 Ask me about
 - Projects that I worked on
 - Experience with co-ops and internships
 - Life at the University of Waterloo
 - Mechatronics Engineering
+- Electrical and Computer Engineering
 - Where I think technology is heading!
 
 ### 📫 You can reach me at 

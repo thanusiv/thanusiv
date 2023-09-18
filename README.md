@@ -2,7 +2,13 @@
 
 ## Hey! <img src="https://github.com/thanusiv/thanusiv/blob/master/assets/gifs/wave.gif" width="30px">
 
-My name is Thanushon Sivakaran and I am an Electrical and Computer Engineering graduate student at the University of Waterloo. I also completed my undergrad in Mechatronics Engineering at the University of Waterloo. I have two years of work experience from 6 internships completed during my undergrad where my last three internships were at Apple. I'm from Canada and love learning about different technologies. I am currently learning about Machine Learning and A.I as you can see from my most recent repositories but I have done Mobile (Android) and Web (Angular, ReactJS) development as well!
+Hey!
+
+My name is Thanushon Sivakaran and I am currently studying Electrical and Computer Engineering at the University of Waterloo where I am specializing in Artificial Intelligence. I have graduated with my Bachelors in Mechatronics Engineering at the University of Waterloo with Graduation Dean's Honours and have joined the Dean's Honours List several times during my undergraduate studies. I have been fortunate enough to receive several scholarships including the Engineering Excellence Fellowship ($50,000), Vector Scholarship in Artificial Intelligence ($17,500) and the Engineering Dean's Entrance Award ($5,000).
+
+I have completed various co-ops/internships, and my last three internships were at Apple, where I worked on parts of Siri! This includes the complete rewrite of a Python API that queries ASR data, implementing a novel feature for Siri's end-to-end testing pipeline and reducing model training time for Siri's language models. I love to learn and work on different technologies and enjoy doing so in any industry. I am very interested in software engineering, machine learning, and natural language processing but I do enjoy trying new things! 
+
+Feel free to reach out, and let's talk!
 
 ### 💬 Ask me about
 - Projects that I worked on

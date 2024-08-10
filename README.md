@@ -2,15 +2,9 @@
 
 ## Hey! <img src="https://github.com/thanusiv/thanusiv/blob/master/assets/gifs/wave.gif" width="30px">
 
-My name is Thanushon Sivakaran and I am currently studying Electrical and Computer Engineering at the University of Waterloo where I am specializing in Artificial Intelligence. I have graduated with my Bachelors in Mechatronics Engineering at the University of Waterloo with Graduation Dean's Honours and have joined the Dean's Honours List several times during my undergraduate studies. 
+My name is Thanushon Sivakaran. I’m a graduate student in Electrical and Computer Engineering at the University of Waterloo with a background in Mechatronics Engineering. My passion for AI and Machine Learning has driven me to work on impactful projects across various teams, including Siri and Language Technologies at Apple and the Platform Team at Signal 1. I've had the opportunity to optimize data processing pipelines, refactor complex codebases, and enhance machine learning workflows, leading to significant performance improvements. My work spans the development of Python libraries, microservices, and APIs, all while maintaining a focus on efficiency and scalability.
 
-I have been fortunate enough to receive several scholarships including the Engineering Excellence Fellowship ($50,000), Vector Scholarship in Artificial Intelligence ($17,500) and the Engineering Dean's Entrance Award ($5,000).
-
-I have completed various co-ops/internships, and my last three internships were at Apple, where I worked on parts of Siri! This includes the complete rewrite of a Python API that queries ASR data, implementing a novel feature for Siri's end-to-end testing pipeline and reducing model training time for Siri's language models. 
-
-I love to learn and work on different technologies and enjoy doing so in any industry. I am very interested in software engineering, machine learning, and natural language processing but I do enjoy trying new things! 
-
-Feel free to reach out, and let's talk!
+With hands-on experience in deploying technologies like Apache Airflow, Kubernetes, and Azure services, I’m skilled in building robust systems that support large-scale data operations. My academic journey has been supported by prestigious scholarships, including the Engineering Excellence Fellowship and the Vector Scholarship in Artificial Intelligence. I’m passionate about using my technical expertise to solve challenging problems and drive innovation in AI/ML.
 
 ### 💬 Ask me about
 - Projects that I worked on
@@ -18,7 +12,6 @@ Feel free to reach out, and let's talk!
 - Life at the University of Waterloo
 - Mechatronics Engineering
 - Electrical and Computer Engineering
-- Where I think technology is heading!
 
 ### 📫 You can reach me at 
 

@@ -13,14 +13,6 @@ With hands-on experience in deploying technologies like Apache Airflow, Kubernet
 - Mechatronics Engineering
 - Electrical and Computer Engineering
 
-### 📫 You can reach me at 
-
-<p align='center'>
-<a href="https://www.linkedin.com/in/thanushonsiva/"><img height="50" src="https://github.com/thanusiv/thanusiv/blob/master/assets/icons/linkedin.png?raw=true"></a>
-<a href="mailto:tsivakar@uwaterloo.ca"> <img height="50" src="https://github.com/thanusiv/thanusiv/blob/master/assets/icons/mail.png?raw=true"></a>
-</p>
-
-
 <!--
 **thanusiv/thanusiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
